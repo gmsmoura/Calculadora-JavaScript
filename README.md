@@ -1,8 +1,27 @@
-# Calculadora JavaScript
+Este projeto consiste no desenvolvimento de uma calculadora básica utilizando JavaScript, HTML e CSS. A calculadora será capaz de realizar operações aritméticas simples como adição, subtração, multiplicação e divisão. 
 
-[![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
+Funcionalidades Principais
+Interface de Usuário:
 
-Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
+Uma interface gráfica simples com botões para dígitos (0-9) e operações aritméticas (+, -, *, /).
+Um visor para exibir os números digitados e o resultado das operações.
+Operações Aritméticas:
 
-### Projeto
-![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33)
+Adição.
+Subtração.
+Multiplicação.
+Divisão.
+Botões Adicionais:
+
+Botão de igual (=) para calcular e exibir o resultado.
+Botão de limpar (C) para resetar o visor e começar uma nova operação.
+Estrutura do Projeto
+HTML:
+
+Estrutura básica da calculadora, incluindo botões e visor.
+CSS:
+
+Estilização da calculadora para torná-la visualmente agradável e funcional.
+JavaScript:
+
+Lógica para manipular as entradas do usuário, realizar cálculos e atualizar o visor.
